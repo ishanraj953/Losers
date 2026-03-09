@@ -23,7 +23,7 @@ export default function AbouteTab() {
 
         <div className="w-full md:w-1/2 flex justify-center">
           <img
-            src="https://royalsoftsolutions.com/wp-content/uploads/2023/04/125606-contact-us.gif"
+            src="https://i.postimg.cc/jSZjVxk9/84565-about-us.gif"
           />
         </div>
       </div>
