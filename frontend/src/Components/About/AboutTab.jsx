@@ -1,4 +1,4 @@
-import Ishan from "../assets/Ishan.jpeg"
+import Ishan from "../../assets/Ishan.jpeg"
 
 export default function AbouteTab() {
   return (

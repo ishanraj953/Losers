@@ -1,5 +1,4 @@
 import { useState } from "react";
-import Button from "../Button";
 import { Link, useNavigate } from "react-router-dom";
 
 export default function NewEvent() {
