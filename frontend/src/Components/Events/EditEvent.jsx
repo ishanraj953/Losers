@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import Button from "../Button";
 import { Link, useNavigate, useParams } from "react-router-dom";
 
 export default function EditEvent() {

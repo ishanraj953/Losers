@@ -1,4 +1,4 @@
-import ShowEvent from "../Components/ShowEvent";
+import ShowEvent from "../Components/Events/ShowEvent";
 
 export default function EventRoute() {
 

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import EventCard from "./EventCard";
-import Button from "../Button";
+import Button from "../Button/Button";
 
 export default function EventTab() {
 

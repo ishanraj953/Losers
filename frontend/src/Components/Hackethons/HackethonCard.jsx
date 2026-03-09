@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
-import EventCard from "../EventCard";
-import {Link} from 'react-router-dom'
-import Button from "../Button";
+import EventCard from "../Events/EventCard";
+import Button from "../Button/Button";
 
 export default function HackethonCard() {
 

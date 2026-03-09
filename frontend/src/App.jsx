@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import Dashboard from "./pages/Dashboard";
-import EventsRoute from "./pages/EventsRoute";
+import EventsRoute from "./pages/EventRoute";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 import Contact from "./Components/Contact";
